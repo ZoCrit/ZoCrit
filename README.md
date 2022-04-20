@@ -1,1 +1,1 @@
-![a](https://github.com/ZoCrit/gh-stats/blob/master/generated/overview.svg)![a](https://github.com/ZoCrit/gh-stats/blob/master/generated/languages.svg)
+![](https://github.com/ZoCrit/gh-stats/blob/master/generated/overview.svg)![](https://github.com/ZoCrit/gh-stats/blob/master/generated/languages.svg)
